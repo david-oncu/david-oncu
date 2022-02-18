@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @david-oncu, Website Developer and Website Designer
+- 👋 Hi, I’m @david-oncu, Website Developer and Designer, Graphics Designer, Creator
 - 👀 I’m interested in HTML, CSS, JS, React
 - 🌱 I’m currently learning Advanced CSS, JS/React
 - 💞️ I’m looking to collaborate on project to improve my skills.
