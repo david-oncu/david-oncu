@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My I'm David Oncu</h1>
+<h1 align="center">Hi! I'm David Oncu</h1>
 
 <h2 align="center">Frontend Development, Digital Designer</h2>
 
