@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm David Oncu</h1>
 
-<h2 align="center">Frontend Development, Digital Designer</h2>
+<h2 align="center">Front-end Developer, Front-end Designer, Digital Designer</h2>
 
 
 - 👋 Hi, I’m @david-oncu, Website Developer and Designer, WordPress, Graphics Designer, Creator
