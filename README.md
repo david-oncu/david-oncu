@@ -1,12 +1,12 @@
 <h1 align="center">Hi! I'm David Oncu</h1>
 
-<h2 align="center">Front-end Developer, Front-end Designer, Digital Designer</h2>
+<h2 align="center">Front-end Developer, Front-end Designer, WordPress Developer, Elementor/Divi Expert</h2>
 
 
-- 👋 Hi, I’m @david-oncu, Website Developer and Designer, WordPress, Graphics Designer, Creator
-- 👀 I’m interested in HTML, CSS, JS, Graphics Design and Digital Design
-- 🌱 I’m currently learning Advanced CSS, Parallax, Animations JS/React
-- 💞️ I’m looking to collaborate on projects, and create amazing stuff together!
+- 👋 Hi, I’m @david-oncu, Website Developer and Designer, Front-End Developer, WordPress Developer, Elementor Expert
+- 👀 I’m interested in Front-End Developement, WordPress, Elementor and Divi.
+- 🌱 I’m currently focused on JavaScript.
+- 💎 I’m open to any suggestion regarding part-time and full-time collaborations and projects, and create amazing projects together!
 
 
 
